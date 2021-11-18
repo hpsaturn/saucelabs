@@ -37,6 +37,17 @@ I first try to run the script but with some issues:
 ![first ingredient](images/ingredient3_01.jpg)
 
 
+### String from patch apk:
+![first ingredient](images/ingredient3_02.jpg)
+
+### First test
+![first ingredient](images/ingredient3_03.jpg)
+
+
+### Thrid ingredient
+oil
+
+
 
 
 
